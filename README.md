@@ -1,5 +1,6 @@
-![Piyush Verma — Backend · Cloud · AI/ML · GenAI](pvgit.png)
-# Hi, I'm Piyush Verma 👋
+<p align="center">
+  <img src="pvgit.png" alt="Piyush Verma — Backend · Cloud · AI/ML · GenAI" width="650">
+</p>
 
 **M.Tech CS @ BITS Pilani · Former Software Engineer @ Sony India · Incoming Intern @ Novartis India**
 

@@ -1,3 +1,4 @@
+![Piyush Verma — Backend · Cloud · AI/ML · GenAI](pvgit.png)
 # Hi, I'm Piyush Verma 👋
 
 **M.Tech CS @ BITS Pilani · Former Software Engineer @ Sony India · Incoming Intern @ Novartis India**

@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Piyush Verma 👋
 
-<!--
-**piyushv3/piyushv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Tech CS @ BITS Pilani · Former Software Engineer @ Sony India · Incoming Intern @ Novartis India**
 
-Here are some ideas to get you started:
+2.5 years at Sony in **Azure SRE, observability, and automation**, plus **backend development and RAG orchestration for GeneBot**, an AWS-based GenAI assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on **Python Backend · SRE / Platform Engineering · GenAI · AI & ML**.
+
+### Technologies & Foundations
+
+- **Languages:** Python, C, C++, SQL, PowerShell
+- **Backend:** FastAPI, REST APIs
+- **Cloud & Infrastructure:** Azure, AWS, Docker, Kubernetes, Terraform, CI/CD
+- **Observability:** Datadog, Azure Monitor, Application Insights, Langfuse
+- **Foundations:** DSA, OOP, Operating Systems, Computer Networks
+
+### Currently Learning & Exploring
+
+- **Backend:** PostgreSQL, SQLAlchemy, Alembic, authentication, async APIs, Redis, background workers
+- **System Design:** API design, caching, scalability, distributed systems
+- **AI Engineering:** GenAI, RAG, embeddings, vector databases, LLM evaluation, agentic AI

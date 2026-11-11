@@ -2,7 +2,7 @@
 
 **M.Tech CS @ BITS Pilani · Former Software Engineer @ Sony India · Incoming Intern @ Novartis India**
 
-2.5 years at Sony in **Azure SRE, observability, and automation**, plus **backend development and RAG orchestration for GeneBot**, an AWS-based GenAI assistant.
+2.5 years at Sony across **backend development and RAG orchestration for an AWS-based GenAI assistant**, following earlier work in **Azure SRE, observability, and automation**.
 
 Focused on **Python Backend · SRE / Platform Engineering · GenAI · AI & ML**.
 
@@ -16,6 +16,6 @@ Focused on **Python Backend · SRE / Platform Engineering · GenAI · AI & ML**.
 
 ### Currently Learning & Exploring
 
-- **Backend:** PostgreSQL, SQLAlchemy, Alembic, authentication, async APIs, Redis, background workers
+- **Backend:** Django, PostgreSQL, SQLAlchemy, Alembic, authentication, async APIs, Redis, background workers
 - **System Design:** API design, caching, scalability, distributed systems
 - **AI Engineering:** GenAI, RAG, embeddings, vector databases, LLM evaluation, agentic AI

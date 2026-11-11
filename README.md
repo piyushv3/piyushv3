@@ -1,4 +1,4 @@
-<img src="pvgit.png" alt="Piyush Verma — Backend · Cloud · AI/ML · GenAI" width="100%">
+<img src="pvgit.png" alt="Piyush Verma" width="100%">
 
 # Hi, I'm Piyush Verma 👋
 

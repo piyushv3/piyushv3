@@ -1,7 +1,7 @@
 <p align="center">
   <img src="pvgit.png" alt="Piyush Verma — Backend · Cloud · AI/ML · GenAI" width="650">
 </p>
-
+# Hi, I'm Piyush Verma 👋
 **M.Tech CS @ BITS Pilani · Former Software Engineer @ Sony India · Incoming Intern @ Novartis India**
 
 2.5 years at Sony across **backend development and RAG orchestration for an AWS-based GenAI assistant**, following earlier work in **Azure SRE, observability, and automation**.

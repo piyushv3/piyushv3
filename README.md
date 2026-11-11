@@ -1,4 +1,4 @@
-<img src="pvgit.png" alt="Piyush Verma" width="100%">
+<img src="https://raw.githubusercontent.com/piyushv3/piyushv3/main/pvgit.png?v=3" alt="Piyush Verma" width="100%">
 
 # Hi, I'm Piyush Verma 👋
 
